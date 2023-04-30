@@ -1,16 +1,7 @@
-# login_bloc
+# Login BLOC
 
-A new Flutter project.
+A Flutter project that focuses mainly on BLOC which is the Business Login Controller.
 
-## Getting Started
+This includes streams and stream controllers, which are Observables (now refered to as Rx) and Subjects in the RxDart Library.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is demonstrated through a basic login screen.
